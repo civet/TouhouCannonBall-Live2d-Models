@@ -6,6 +6,7 @@
       "textures/texture_00.png"
     ],
     "Physics": "object_live2d_001_101.asset.physics3.json",
+    "Pose": "object_live2d_001_101.asset.pose3.json",
     "Motions": {
       "": [
         {

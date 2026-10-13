@@ -1,0 +1,66 @@
+{
+  "Version": 3,
+  "Type": "Live2D Pose",
+  "Groups": [
+    [
+      {
+        "Id": "PartLRightHand01",
+        "Link": []
+      },
+      {
+        "Id": "PartLRightHand02",
+        "Link": []
+      },
+      {
+        "Id": "PartLRightHand03",
+        "Link": []
+      },
+      {
+        "Id": "PartLRightHand04",
+        "Link": []
+      },
+      {
+        "Id": "PartLRightHand05",
+        "Link": []
+      },
+      {
+        "Id": "PartLRightHand06",
+        "Link": []
+      },
+      {
+        "Id": "PartLRightHand07",
+        "Link": []
+      }
+    ],
+    [
+      {
+        "Id": "PartLeftHand01",
+        "Link": []
+      },
+      {
+        "Id": "PartLeftHand02",
+        "Link": []
+      },
+      {
+        "Id": "PartLeftHand03",
+        "Link": []
+      },
+      {
+        "Id": "PartLeftHand04",
+        "Link": []
+      },
+      {
+        "Id": "PartLeftHand05",
+        "Link": []
+      },
+      {
+        "Id": "PartLeftHand06",
+        "Link": []
+      },
+      {
+        "Id": "PartLeftHand07",
+        "Link": []
+      }
+    ]
+  ]
+}

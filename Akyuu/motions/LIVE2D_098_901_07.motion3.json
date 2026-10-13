@@ -2,12 +2,12 @@
   "Version": 3,
   "Meta": {
     "Duration": 0.017,
-    "Fps": 60.0,
+    "Fps": 60,
     "Loop": true,
     "AreBeziersRestricted": true,
     "CurveCount": 16,
-    "TotalSegmentCount": 17,
-    "TotalPointCount": 17,
+    "TotalSegmentCount": 16,
+    "TotalPointCount": 32,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },

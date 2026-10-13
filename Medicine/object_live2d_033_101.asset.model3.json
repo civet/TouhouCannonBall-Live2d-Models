@@ -123,7 +123,8 @@
           "File": "motions/LIVE2D_033_101_25.motion3.json"
         }
       ]
-    }
+    },
+    "Pose": "object_live2d_033_101.asset.pose3.json"
   },
   "Groups": [
     {
